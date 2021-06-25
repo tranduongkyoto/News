@@ -8,7 +8,7 @@ Database: MongoDB
 This project can crawl news from another website (ex: vnexpress.vn,…) and save to database, then display news using React ( User can search or filter news).
 
 
-### Run application seperately 
+### Run application
 Crawler:
 You must install anaconda3, then install scrapy.
 ```sh
